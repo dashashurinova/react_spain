@@ -1,0 +1,13 @@
+.intro__text {
+    /* display: flex; */
+    width: 690px;
+    flex-direction: column;
+    flex-shrink: 0;
+    font-family: Inter;
+    font-size: 16px;
+    line-height: 163%;
+   padding-bottom: 33px;
+
+    
+    }
+   

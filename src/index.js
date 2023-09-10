@@ -1,13 +1,32 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import Header from './Header';
+import LeadIntro from './LeadIntro';
+import PhotoGrid from './PhotoGrid';
 import App from './App';
+import Footer from './Footer';
 import reportWebVitals from './reportWebVitals';
+import Description from './Description';
+import Last from './Last';
+import EntranceWindow from './EntranceWindow';
+import Animation from './Animation';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    
+    <Header /> 
+    {/* <Animation /> */}
+    <LeadIntro />
+    <PhotoGrid />
+    <Description />
+    <Last />
+  
+    {/* <App /> */}
+  
+    <Footer />
+    <EntranceWindow />
   </React.StrictMode>
 );
 
