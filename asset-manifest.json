@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react_spain/static/css/main.144a5bcf.css",
+    "main.js": "/react_spain/static/js/main.d86dbcfc.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react_spain/static/js/787.28cb0dcd.chunk.js",
+    "static/media/sagrada.jpg": "/react_spain/static/media/sagrada.8a3254c366fba8eefdbe.jpg",
+    "static/media/evening madrid.jpeg": "/react_spain/static/media/evening madrid.25d7f96be75f66aa0d40.jpeg",
+    "static/media/barsa evening.jpg": "/react_spain/static/media/barsa evening.aa1e84e0150969e76ed1.jpg",
+    "index.html": "/react_spain/index.html",
+    "main.144a5bcf.css.map": "/react_spain/static/css/main.144a5bcf.css.map",
+    "main.d86dbcfc.js.map": "/react_spain/static/js/main.d86dbcfc.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react_spain/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.144a5bcf.css",
+    "static/js/main.d86dbcfc.js"
+  ]
+}
